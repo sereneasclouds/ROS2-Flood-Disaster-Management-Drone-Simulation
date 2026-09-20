@@ -1,4 +1,4 @@
-# ROS 2 Disaster Response Drone Simulation
+# ROS2 Flood Disaster Management Drone Simulation
 
 A **ROS 2 and Gazebo-based drone simulation for disaster management and
 flood-response scenarios**, integrating a custom drone model, sensor
